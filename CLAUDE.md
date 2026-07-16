@@ -32,4 +32,4 @@ The owner is building this to LEARN. Default behaviour:
 - pnpm dev / pnpm build / pnpm lint / pnpm typecheck
 
 ## Current status
-Update this line as you go → CURRENT STEP: 0
+Update this line as you go → CURRENT STEP: 1
